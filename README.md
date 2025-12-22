@@ -1,1 +1,1 @@
-# capstone-flag-of-lao
+# flag-of-lao
